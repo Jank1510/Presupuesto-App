@@ -8,7 +8,7 @@
 
  ## Welcome! 👋 
 
-- Live Site URL: [resupuesto App](https://jank1510.github.io/Presupuesto-App/)
+- Live Site URL: [Presupuesto App](https://jank1510.github.io/Presupuesto-App/)
    
 ## Author
 
